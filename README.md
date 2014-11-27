@@ -175,13 +175,11 @@ Make sure your app is running and open *YourAppName.mybluemix.net*.
 
 Then go to your publish directory in the terminal and start the node.js program on your computer.
 
-Linux
+	node sensor-tag.js 
+	
+If you are working on Ubuntu you have to use the following command.
 
 	sudo nodejs sensor-tag.js 
-
-Mac
-
-	node sensor-tag.js 
 
 You should now see the following output
 
