@@ -1,4 +1,4 @@
-#Demo: Building a cloud-based alarm system with Bluemix
+# Demo: Building a cloud-based alarm system with Bluemix
 
 ## Overview
 
